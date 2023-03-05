@@ -1,4 +1,4 @@
 # GitTesting
 Remote changes
 Local Changes
-rebase local
+local rebase
